@@ -6,3 +6,6 @@ this is my rebase git test!!
 this is my rebase git test2!!
 modify the same file
 
+
+commit 1 for rebase
+commit 2 for rebase
